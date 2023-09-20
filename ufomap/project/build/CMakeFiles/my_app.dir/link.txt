@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wl,--copy-dt-needed-entries CMakeFiles/my_app.dir/main.cpp.o -o my_app  -Wl,-rpath,/home/zheyuan/ufomap/ufomap/build /home/zheyuan/ufomap/ufomap/build/libMap.so 
